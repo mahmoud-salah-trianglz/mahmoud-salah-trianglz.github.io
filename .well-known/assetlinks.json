@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "sq.mayv.credentialmanager",
+      "sha256_cert_fingerprints": [
+        "7C:EA:1D:74:30:72:9F:0B:DA:FE:5C:4F:70:20:E6:19:E4:0D:3B:F6:F4:8F:91:B8:42:08:2C:74:BF:CB:81:7A"
+      ]
+    }
+  }
+]
